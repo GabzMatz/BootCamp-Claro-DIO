@@ -1,4 +1,4 @@
-package org.gabriel;
+package org.dio.gabriel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
